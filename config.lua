@@ -52,3 +52,4 @@ radioConfig = {
     },
     AllowRadioWhenClosed = true -- Allows the radio to be used when not open (uses police radio animation) 
 }
+-
